@@ -46,7 +46,7 @@ p {
   background-color: #F05F40;
 }
 .bg-dark {
-  background-color: #222222;
+  background-color: rgba(201, 191, 191, 0.75);
   color: white;
 }
 .text-faded {
@@ -223,9 +223,6 @@ header .header-content .header-content-inner p {
 .service-box p {
   margin-bottom: 0;
 }
-/*no-padding .portfolio{
-  background-color: #F05F40
-}*/
 .portfolio-box {
   position: relative;
   display: block;
